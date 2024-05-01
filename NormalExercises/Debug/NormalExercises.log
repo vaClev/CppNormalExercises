@@ -1,0 +1,108 @@
+﻿  Employee.cpp
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\Employee.cpp(50,41): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\Employee.cpp(51,46): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\Employee.cpp(52,46): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Matrix.cpp
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\Matrix.cpp(10,24): warning C4018: <: несоответствие типов со знаком и без знака
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\Matrix.cpp(15,24): warning C4018: <: несоответствие типов со знаком и без знака
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\Matrix.cpp(17,25): warning C4018: <: несоответствие типов со знаком и без знака
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\Matrix.cpp(38,24): warning C4018: <: несоответствие типов со знаком и без знака
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\Matrix.cpp(40,25): warning C4018: <: несоответствие типов со знаком и без знака
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\Matrix.cpp(50,24): warning C4018: <: несоответствие типов со знаком и без знака
+  NormalExercises.cpp
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\NormalExercises.cpp(75,53): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\NormalExercises.cpp(92,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Time1.cpp
+  Создание кода...
+  exercises.cpp
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\exercises.cpp(136,23): warning C4018: <: несоответствие типов со знаком и без знака
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\exercises.cpp(138,24): warning C4018: <: несоответствие типов со знаком и без знака
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\exercises.cpp(147,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\exercises.cpp(148,23): warning C4018: <: несоответствие типов со знаком и без знака
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\exercises.cpp(150,24): warning C4018: <: несоответствие типов со знаком и без знака
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\exercises.cpp(158,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\exercises.cpp(160,23): warning C4018: <: несоответствие типов со знаком и без знака
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\exercises.cpp(162,24): warning C4018: <: несоответствие типов со знаком и без знака
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\exercises.cpp(299,25): warning C4018: <: несоответствие типов со знаком и без знака
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\exercises.cpp(353,25): warning C4018: <: несоответствие типов со знаком и без знака
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\exercises.cpp(366,25): warning C4018: <: несоответствие типов со знаком и без знака
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\exercises.cpp(631,23): warning C4018: <: несоответствие типов со знаком и без знака
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\exercises.cpp(633,24): warning C4018: <: несоответствие типов со знаком и без знака
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\exercises.cpp(646,23): warning C4018: <: несоответствие типов со знаком и без знака
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\exercises.cpp(648,24): warning C4018: <: несоответствие типов со знаком и без знака
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\exercises.cpp(663,23): warning C4018: <: несоответствие типов со знаком и без знака
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\exercises.cpp(678,23): warning C4018: <: несоответствие типов со знаком и без знака
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\exercises.cpp(833,23): warning C4018: <: несоответствие типов со знаком и без знака
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\exercises.cpp(972,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\exercises.cpp(992,25): warning C4018: <: несоответствие типов со знаком и без знака
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\Header.h(59,14): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\exercises.cpp(80,70): message : выполняется компиляция ссылки на экземпляр шаблон функции "T input<int>(const char *)"
+          with
+          [
+              T=int
+          ]
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\Header.h(59,14): warning C4244: =: преобразование "double" в "unsigned int", возможна потеря данных
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\exercises.cpp(238,49): message : выполняется компиляция ссылки на экземпляр шаблон функции "T input<unsigned int>(const char *)"
+          with
+          [
+              T=unsigned int
+          ]
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\exercises.cpp(172,23): warning C4018: <: несоответствие типов со знаком и без знака
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\exercises.cpp(249,31): message : выполняется компиляция ссылки на экземпляр шаблон функции "void showMatrix<int>(T *[],int,int)"
+          with
+          [
+              T=int
+          ]
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\exercises.cpp(174,24): warning C4018: <: несоответствие типов со знаком и без знака
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\exercises.cpp(102,23): warning C4018: <: несоответствие типов со знаком и без знака
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\exercises.cpp(252,24): message : выполняется компиляция ссылки на экземпляр шаблон функции "void fillArray<int>(T *,int)"
+          with
+          [
+              T=int
+          ]
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\exercises.cpp(93,23): warning C4018: <: несоответствие типов со знаком и без знака
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\exercises.cpp(253,24): message : выполняется компиляция ссылки на экземпляр шаблон функции "void showArray<int>(T *,int)"
+          with
+          [
+              T=int
+          ]
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\Header.h(59,14): warning C4244: =: преобразование "double" в "unsigned short", возможна потеря данных
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\exercises.cpp(348,74): message : выполняется компиляция ссылки на экземпляр шаблон функции "T input<unsigned short>(const char *)"
+          with
+          [
+              T=unsigned short
+          ]
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\exercises.cpp(693,23): warning C4018: <: несоответствие типов со знаком и без знака
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\exercises.cpp(772,77): message : выполняется компиляция ссылки на экземпляр шаблон функции "const int indexOfRowWithMinElem<double>(T **,int,int)"
+          with
+          [
+              T=double
+          ]
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\exercises.cpp(695,24): warning C4018: <: несоответствие типов со знаком и без знака
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\exercises.cpp(746,23): warning C4018: <: несоответствие типов со знаком и без знака
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\exercises.cpp(774,85): message : выполняется компиляция ссылки на экземпляр шаблон функции "void changeRowsInMatrix<double>(T **,int,int,int,int)"
+          with
+          [
+              T=double
+          ]
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\exercises.cpp(112,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\exercises.cpp(830,38): message : выполняется компиляция ссылки на экземпляр шаблон функции "void fillArrayRandomInt<int>(T *,int,int,int)"
+          with
+          [
+              T=int
+          ]
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\exercises.cpp(113,23): warning C4018: <: несоответствие типов со знаком и без знака
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\exercises.cpp(711,23): warning C4018: <: несоответствие типов со знаком и без знака
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\exercises.cpp(943,63): message : выполняется компиляция ссылки на экземпляр шаблон функции "const int indexOfRowWithMaxElem<int>(T **,int,int)"
+          with
+          [
+              T=int
+          ]
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\exercises.cpp(713,24): warning C4018: <: несоответствие типов со знаком и без знака
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\exercises.cpp(123,23): warning C4018: <: несоответствие типов со знаком и без знака
+G:\Мой диск\Programming\Задачи\С++\Normal\NormalExercises\NormalExercises\exercises.cpp(955,60): message : выполняется компиляция ссылки на экземпляр шаблон функции "int indexOfMaxElem<int>(T *,int)"
+          with
+          [
+              T=int
+          ]
+LINK : fatal error LNK1104: не удается открыть файл "msvcprtd.lib"
